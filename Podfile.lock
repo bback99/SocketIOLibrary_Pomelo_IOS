@@ -1,0 +1,12 @@
+PODS:
+  - Socket.IO-Client-Swift (10.2.0)
+
+DEPENDENCIES:
+  - Socket.IO-Client-Swift (~> 10.2.0)
+
+SPEC CHECKSUMS:
+  Socket.IO-Client-Swift: ecd7fe4d2746a7557e71c2d6e95e23e3be31ddd1
+
+PODFILE CHECKSUM: 7dceb104f263d32ed0348afe843d4a1e2e91d330
+
+COCOAPODS: 1.1.1
